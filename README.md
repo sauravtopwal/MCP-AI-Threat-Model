@@ -52,4 +52,4 @@ As AI systems become more integrated with applications and external tools, secur
 MCP improves control, security, and interoperability between AI applications and services.
 
 👉 Learn more about MCP architecture, threats, and testing here: 
-🔗 **Read the full article:** [AI Security and MCP Explained]([YOUR_LINK_HERE](https://medium.com/@sauravtopwal1/how-mcp-is-changing-ai-security-architecture-threats-and-testing-d0b8fa8160bb)
+🔗 **Read the full article:** [AI Security and MCP Explained] ([CLICK_HERE](https://medium.com/@sauravtopwal1/how-mcp-is-changing-ai-security-architecture-threats-and-testing-d0b8fa8160bb))
