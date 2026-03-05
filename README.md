@@ -1,6 +1,7 @@
 # MCP-AI Threat Modelling Checklist
 
-Threat modelling helps identify security risks in AI systems that use the Model Context Protocol (MCP). Since MCP connects LLMs, tools, APIs, and external data sources, it introduces new attack surfaces that must be carefully evaluated.
+Threat modelling helps identify security risks in AI systems that use the Model Context Protocol (MCP). 
+Since MCP connects LLMs, tools, APIs, and external data sources, it introduces new attack surfaces that must be carefully evaluated.
 This checklist helps developers and security teams identify, analyze, and mitigate threats in MCP-based AI architectures.
 
 ## 1. Authentication & Access Control
