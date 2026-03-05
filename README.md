@@ -44,3 +44,12 @@ Ensuring that data flows and logs remain secure during live operations.
 | DNS Rebinding | High | Bind to localhost + Host header check. |
 | Indirect Injection | Medium | Sanitize tool outputs before LLM parsing. |
 | Tool Poisoning | Critical | Use an internal vetted repository of servers.
+
+##AI Security and MCP
+
+As AI systems become more integrated with applications and external tools, security becomes a critical concern. Risks like prompt injection, data leakage, and unauthorized access can impact AI reliability. The Model Context Protocol (MCP) helps address these challenges by providing a standardized and secure way for AI models to interact with external tools, APIs, and data sources.
+
+MCP improves control, security, and interoperability between AI applications and services.
+
+👉 Learn more about MCP architecture, threats, and testing here: 
+🔗 **Read the full article:** [AI Security and MCP Explained]([YOUR_LINK_HERE](https://medium.com/@sauravtopwal1/how-mcp-is-changing-ai-security-architecture-threats-and-testing-d0b8fa8160bb)
